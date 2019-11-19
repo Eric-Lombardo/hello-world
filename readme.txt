@@ -5,4 +5,4 @@ Adding some more text here to see what it looks like now,
 and what are the differences from this soon-to-be 
 commit with the old commit.
 
-One last test to really amke sure I understand how this works :)
+One last test to really make sure I understand how this works :)
